@@ -1,0 +1,17 @@
+/*Mencoba mengenal semua tabel data berlangganan dari sebuah perusahaan penyedia jasa layanan internet
+dengan menggunakan SQL*/
+
+--Mengenali tabel customer
+SELECT * FROM customer;
+
+--Mengenali tabel product
+SELECT * FROM product;
+
+--Mengenali tabel subscription
+SELECT * FROM subscription;
+
+--Mengenali tabel Invoice
+SELECT * FROM Invoice;
+
+--Mengenali tabel payment
+SELECT * FROM payment;
