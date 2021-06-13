@@ -10,8 +10,8 @@ SELECT * FROM product;
 --Mengenali tabel subscription
 SELECT * FROM subscription;
 
---Mengenali tabel Invoice
-SELECT * FROM Invoice;
+--Mengenali tabel invoice
+SELECT * FROM invoice;
 
 --Mengenali tabel payment
 SELECT * FROM payment;
